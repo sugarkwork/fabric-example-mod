@@ -1,4 +1,4 @@
-package com.example;
+package com.sugar_knight;
 
 import net.fabricmc.api.ClientModInitializer;
 
